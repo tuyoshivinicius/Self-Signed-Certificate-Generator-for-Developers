@@ -5,6 +5,6 @@ Suportado apenas em ambiente UNIX ou Terminal WSL Ubunto.
 
 #### Gerando certificado
 
-`$./stuyoshi.sh localhost password123`
+`$./stuyosh.sh localhost password123`
 
 [@TuyoshiVinicius](https://www.linkedin.com/in/tuyoshi-vinicius)
